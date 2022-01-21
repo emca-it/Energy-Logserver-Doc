@@ -1,1 +1,2 @@
-# Energy-Logserver-Doc
+# Energy Logserver
+Energy Logserver User Guide
